@@ -1,5 +1,5 @@
 # Controle de Visitantes BackEnd
-Sistema de portarias para controle e gerenciamento de visitantes!
+https://github.com/rennanfn/controle_visitantes_back/blob/master/LICENSE.md
 
 # Sobre o Projeto
 Controle de Visitantes é uma aplicação web para portarias que consiste no controle e gerenciamento de visitantes. A aplicação permite cadastrar um visitante, incluindo
